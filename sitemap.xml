@@ -4,10 +4,63 @@
   
   <url>
     <loc>https://vaibhavlalwani.github.io/authors/admin/</loc>
+    <lastmod>2018-09-01T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vaibhavlalwani.github.io/publication_types/2/</loc>
+    <lastmod>2018-09-01T00:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vaibhavlalwani.github.io/publication/journal-article/</loc>
+    <lastmod>2018-09-01T00:00:00+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://vaibhavlalwani.github.io/authors/</loc>
+    <lastmod>2018-09-01T00:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vaibhavlalwani.github.io/authors/madhumita-chakraborty/</loc>
+    <lastmod>2018-09-01T00:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vaibhavlalwani.github.io/publication_types/</loc>
+    <lastmod>2018-09-01T00:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vaibhavlalwani.github.io/publication/</loc>
+    <lastmod>2018-09-01T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vaibhavlalwani.github.io/</loc>
+    <lastmod>2018-09-01T00:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vaibhavlalwani.github.io/publication/journal-article-2/</loc>
+    <lastmod>2015-09-01T00:00:00+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vaibhavlalwani.github.io/tags/source-themes/</loc>
+    <lastmod>2015-09-01T00:00:00+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vaibhavlalwani.github.io/tags/</loc>
+    <lastmod>2015-09-01T00:00:00+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -21,26 +74,7 @@
   </url>
   
   <url>
-    <loc>https://vaibhavlalwani.github.io/publication_types/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://vaibhavlalwani.github.io/publication/</loc>
-  </url>
-  
-  <url>
     <loc>https://vaibhavlalwani.github.io/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>https://vaibhavlalwani.github.io/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://vaibhavlalwani.github.io/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>

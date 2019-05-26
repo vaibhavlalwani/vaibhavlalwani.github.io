@@ -6,6 +6,7 @@
     <description>Recent content in Authors on Vaibhav Lalwani</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0530</lastBuildDate>
     
 	<atom:link href="https://vaibhavlalwani.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,10 +14,19 @@
     <item>
       <title></title>
       <link>https://vaibhavlalwani.github.io/authors/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0530</pubDate>
       
       <guid>https://vaibhavlalwani.github.io/authors/admin/</guid>
       <description>Vaibhav Lalwani is a Doctoral Student in Finance &amp;amp; Accounting at the Indian Institute of Management Lucknow. His research interests include asset pricing, investment strategies and aggregate accounting.</description>
+    </item>
+    
+    <item>
+      <title>Madhumita Chakraborty</title>
+      <link>https://vaibhavlalwani.github.io/authors/madhumita-chakraborty/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0530</pubDate>
+      
+      <guid>https://vaibhavlalwani.github.io/authors/madhumita-chakraborty/</guid>
+      <description></description>
     </item>
     
   </channel>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Vaibhav Lalwani</title>
-    <link>https://vaibhavlalwani.github.io/publication/</link>
-    <description>Recent content in Publications on Vaibhav Lalwani</description>
+    <title>Madhumita Chakraborty on Vaibhav Lalwani</title>
+    <link>https://vaibhavlalwani.github.io/authors/madhumita-chakraborty/</link>
+    <description>Recent content in Madhumita Chakraborty on Vaibhav Lalwani</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0530</lastBuildDate>
     
-	<atom:link href="https://vaibhavlalwani.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vaibhavlalwani.github.io/authors/madhumita-chakraborty/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>https://vaibhavlalwani.github.io/publication/journal-article/</guid>
       <description>In this study, We test if seven commonly used asset-pricing factors predict future growth in GDP and industrial production. There is minimal evidence that asset-pricing factors other than the market factor predict future economic growth. Predictive power of these factors reported in earlier literature seems to have attenuated.</description>
-    </item>
-    
-    <item>
-      <title>An example journal article</title>
-      <link>https://vaibhavlalwani.github.io/publication/journal-article-2/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0530</pubDate>
-      
-      <guid>https://vaibhavlalwani.github.io/publication/journal-article-2/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.</description>
     </item>
     
   </channel>
