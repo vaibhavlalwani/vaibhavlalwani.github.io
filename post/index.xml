@@ -6,9 +6,19 @@
     <description>Recent content in Posts on Vaibhav Lalwani</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 28 May 2019 12:19:40 +0530</lastBuildDate>
     
 	<atom:link href="https://vaibhavlalwani.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cleaning Datastream Returns Data in R</title>
+      <link>https://vaibhavlalwani.github.io/post/firstpost/</link>
+      <pubDate>Tue, 28 May 2019 12:19:40 +0530</pubDate>
+      
+      <guid>https://vaibhavlalwani.github.io/post/firstpost/</guid>
+      <description>Anyone who has used data stream stock prices data is (or should be) aware of the fact that there are many obvious errors in the price data obtained from this source. A detailed exposition on the types of errors and how to correct for them is available in Ince and Porter (2006) and Schmidt et. al. (). In this post, i consider on error that occurs due to delisting of stocks.</description>
+    </item>
     
   </channel>
 </rss>

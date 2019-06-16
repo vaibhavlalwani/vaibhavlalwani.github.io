@@ -6,10 +6,73 @@
     <description>Recent content on Vaibhav Lalwani</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0530</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2019 12:19:40 +0530</lastBuildDate>
     
 	    <atom:link href="https://vaibhavlalwani.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cleaning Datastream Returns Data in R</title>
+      <link>https://vaibhavlalwani.github.io/post/firstpost/</link>
+      <pubDate>Tue, 28 May 2019 12:19:40 +0530</pubDate>
+      
+      <guid>https://vaibhavlalwani.github.io/post/firstpost/</guid>
+      <description>&lt;p&gt;Anyone who has used data stream stock prices data is (or should be) aware of the fact that there are many obvious errors in the price data obtained from this source.
+A detailed exposition on the types of errors and how to correct for them is available in Ince and Porter (2006) and Schmidt et. al. (). In this post, i consider on error that occurs due to delisting of stocks. Instead of removing the data for a stock, datastream shows the last traded price for that stock and hence gives a long list of zero&amp;rsquo;s at the end of the returns data that need to be removed.
+This rule is explicitly stated by Ince and Porter as : Delete all zero returns (with returns calculated from the total return index) from the end of the sample until the first non-zero return .
+I share an R function to&lt;/p&gt;
+
+&lt;p&gt;1.testing
+2.Yes
+3.No&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=486523&#34; target=&#34;_blank&#34;&gt;Ince Porter&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I : heart : Academic : smile :&lt;/p&gt;
+
+&lt;p&gt;$$\left [ – \frac{\hbar^2}{2 m} \frac{\partial^2}{\partial x^2} + V \right ] \Psi = i \hbar \frac{\partial}{\partial t} \Psi$$&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Command&lt;/th&gt;
+&lt;th&gt;Description&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;hugo&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;Build your website.&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;hugo serve -w&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;View your website.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;# Code example test
+
+
+var = sd(c(1,2,8,9,11,2))
+
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;em&gt;testitalic&lt;/em&gt;
+In another post, I will share the entire process of collecting accounting and market data (with specific focus on empirical asset pricing studies) from the Thomson Reuters Datastream Database. I will also share some specific Do&amp;rsquo;s and Don&amp;rsquo;ts that I have learned from some careful trial and error.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Aggregate earnings and gross domestic product: International Evidence</title>
+      <link>https://vaibhavlalwani.github.io/publication/journal-article-earnings-and-gdp/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0530</pubDate>
+      
+      <guid>https://vaibhavlalwani.github.io/publication/journal-article-earnings-and-gdp/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Investor reaction to extreme price shocks in stock markets: A cross country examination</title>

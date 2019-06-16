@@ -3,6 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://vaibhavlalwani.github.io/post/firstpost/</loc>
+    <lastmod>2019-05-28T12:19:40+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vaibhavlalwani.github.io/post/</loc>
+    <lastmod>2019-05-28T12:19:40+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vaibhavlalwani.github.io/</loc>
+    <lastmod>2019-05-28T12:19:40+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://vaibhavlalwani.github.io/authors/admin/</loc>
     <lastmod>2019-03-01T00:00:00+05:30</lastmod>
   </url>
@@ -11,6 +27,11 @@
     <loc>https://vaibhavlalwani.github.io/publication_types/2/</loc>
     <lastmod>2019-03-01T00:00:00+05:30</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vaibhavlalwani.github.io/publication/journal-article-earnings-and-gdp/</loc>
+    <lastmod>2019-03-01T00:00:00+05:30</lastmod>
   </url>
   
   <url>
@@ -48,12 +69,6 @@
   </url>
   
   <url>
-    <loc>https://vaibhavlalwani.github.io/</loc>
-    <lastmod>2019-03-01T00:00:00+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://vaibhavlalwani.github.io/publication/journal-article/</loc>
     <lastmod>2018-09-01T00:00:00+05:30</lastmod>
   </url>
@@ -66,10 +81,6 @@
   <url>
     <loc>https://vaibhavlalwani.github.io/categories/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://vaibhavlalwani.github.io/post/</loc>
   </url>
   
   <url>
