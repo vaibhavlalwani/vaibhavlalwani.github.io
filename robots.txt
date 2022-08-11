@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://vaibhavlalwani.github.io/sitemap.xml

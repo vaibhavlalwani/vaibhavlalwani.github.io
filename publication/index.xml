@@ -1,59 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Vaibhav Lalwani</title>
+    <title>Publications | Academic</title>
     <link>https://vaibhavlalwani.github.io/publication/</link>
-    <description>Recent content in Publications on Vaibhav Lalwani</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0530</lastBuildDate>
-    
-	<atom:link href="https://vaibhavlalwani.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Aggregate earnings and gross domestic product: International Evidence</title>
-      <link>https://vaibhavlalwani.github.io/publication/journal-article-earnings-and-gdp/</link>
-      <pubDate>Fri, 01 Mar 2019 00:00:00 +0530</pubDate>
-      
-      <guid>https://vaibhavlalwani.github.io/publication/journal-article-earnings-and-gdp/</guid>
-      <description></description>
-    </item>
+      <atom:link href="https://vaibhavlalwani.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vaibhavlalwani.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://vaibhavlalwani.github.io/publication/</link>
+    </image>
     
     <item>
-      <title>Investor reaction to extreme price shocks in stock markets: A cross country examination</title>
-      <link>https://vaibhavlalwani.github.io/publication/journal-article-3/</link>
-      <pubDate>Fri, 01 Mar 2019 00:00:00 +0530</pubDate>
-      
-      <guid>https://vaibhavlalwani.github.io/publication/journal-article-3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Asset Pricing factors and future economic growth</title>
-      <link>https://vaibhavlalwani.github.io/publication/journal-article/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 +0530</pubDate>
-      
-      <guid>https://vaibhavlalwani.github.io/publication/journal-article/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multi-factor asset pricing models in emerging and developed markets</title>
-      <link>https://vaibhavlalwani.github.io/publication/journal-article-asset-pricing-models/</link>
-      <pubDate>Thu, 01 Feb 2018 00:00:00 +0530</pubDate>
-      
-      <guid>https://vaibhavlalwani.github.io/publication/journal-article-asset-pricing-models/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Quality investing in the Indian stock market</title>
-      <link>https://vaibhavlalwani.github.io/publication/journal-article-2/</link>
-      <pubDate>Thu, 01 Feb 2018 00:00:00 +0530</pubDate>
-      
-      <guid>https://vaibhavlalwani.github.io/publication/journal-article-2/</guid>
-      <description></description>
+      <title>An example conference paper</title>
+      <link>https://vaibhavlalwani.github.io/publication/example/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://vaibhavlalwani.github.io/publication/example/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
