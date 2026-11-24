@@ -2,12 +2,11 @@ project:
   type: website
   output-dir: _site
   resources:
-    - CNAME
     - publications.bib
 
 website:
   title: "Vaibhav Lalwani"
-  site-url: "https://www.vaibhavfin.com"
+  site-url: "https://vaibhavlalwani.github.io"
   description: "Vaibhav Lalwani — Associate Professor of Finance, XLRI Xavier School of Management (Delhi-NCR)"
   favicon: assets/profile.svg
 

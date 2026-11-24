@@ -5,7 +5,7 @@ The **Research and Publications** page refreshes automatically every quarter fro
 [OpenAlex](https://openalex.org) using your ORCID, while every page remains plain
 Markdown that you can edit by hand at any time.
 
-Live site target: **https://www.vaibhavfin.com**
+Live site: **https://vaibhavlalwani.github.io/**
 
 ---
 
@@ -104,26 +104,19 @@ Then re-run `python scripts/update_publications.py`.
 Put your photo in `assets/` (e.g. `assets/profile.jpg`) and update the `<img>` in
 `index.qmd` to point at it. The current `assets/profile.svg` is a placeholder.
 
-## Deploying to www.vaibhavfin.com
+## Deploying to GitHub Pages
 
-1. Create a GitHub repository and push this folder to the `main` branch.
-2. In **Settings → Pages**, set **Source** to the `gh-pages` branch.
-3. Push once (or run the workflow) so the `gh-pages` branch is created.
-4. The custom domain `www.vaibhavfin.com` is already set on the repo
-   (**Settings → Pages**). Point your DNS at GitHub Pages at the provider where
-   `vaibhavfin.com` is managed:
+This site is published to the user-site repository
+`vaibhavlalwani/vaibhavlalwani.github.io` and served at
+**https://vaibhavlalwani.github.io/**.
 
-   | Type | Name | Value |
-   |---|---|---|
-   | CNAME | `www` | `vaibhavlalwani.github.io` |
-   | A | `@` (apex `vaibhavfin.com`) | `185.199.108.153` |
-   | A | `@` | `185.199.109.153` |
-   | A | `@` | `185.199.110.153` |
-   | A | `@` | `185.199.111.153` |
+1. Push this folder to the `main` branch of that repository.
+2. The `.github/workflows/publish.yml` action renders the site and pushes it to
+   the `gh-pages` branch.
+3. In **Settings → Pages**, set **Source** to the `gh-pages` branch.
+4. Tick **Enforce HTTPS** once the certificate is issued.
 
-   Then remove the Google Sites custom-domain mapping for `www.vaibhavfin.com`,
-   and once DNS resolves tick **Enforce HTTPS** in **Settings → Pages**.
-5. Once the new site is live, you can retire the Google Sites version.
+No custom domain or DNS changes are required.
 
 ## Changing colours / fonts
 
