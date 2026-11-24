@@ -6,7 +6,7 @@
   <div class="pub-title">Factor timing with transaction costs</div>
   <div class="pub-authors"><span class="me">Vaibhav Lalwani</span> and Ashok Gunturu</div>
   <div class="pub-meta"><span class="venue">Borsa Istanbul Review</span> · 100913 · 2026</div>
-  <div class="pub-links"><a class="pub-link" href="https://doi.org/10.1016/j.bir.2026.100913">DOI</a></div>
+  <div class="pub-links"><a class="pub-link" href="https://doi.org/10.1016/j.bir.2026.100913">DOI</a><a class="pub-link" href="https://www.sciencedirect.com/science/article/pii/S221484502600133X/pdf">PDF</a></div>
 </div>
 <div class="pub-pitch">Times factor exposures using 50 net-of-cost smart-beta factors, driven by their past returns and covariances. The dynamic strategy beats a static 1/N benchmark on risk-adjusted returns even after 2000&#x27;s fading premiums, with low turnover and results robust to specification choices.</div>
 </div>
@@ -32,7 +32,7 @@
 <div class="pub-main">
   <div class="pub-title">Does economic complexity tame the stock markets? International evidence</div>
   <div class="pub-authors"><span class="me">Vaibhav Lalwani</span> and Kirti Saxena</div>
-  <div class="pub-meta"><span class="venue">Applied Economics</span> · 1–17 · 2025</div>
+  <div class="pub-meta"><span class="venue">Applied Economics</span> · 58(50), 11226–11242 · 2025</div>
   <div class="pub-links"><a class="pub-link" href="https://doi.org/10.1080/00036846.2025.2563917">DOI</a></div>
 </div>
 <div class="pub-pitch">Shows that countries producing more diverse and unique goods tend to have calmer stock markets. The effect is concentrated in emerging markets and only kicks in past a complexity threshold.</div>
@@ -68,7 +68,7 @@
 <div class="pub-main">
   <div class="pub-title">Inflation hedging via tracking portfolios in the BRICS markets</div>
   <div class="pub-authors">Vedprakash Vasantrao Meshram and <span class="me">Vaibhav Lalwani</span></div>
-  <div class="pub-meta"><span class="venue">Cogent Economics &amp; Finance</span> · 12(1) · 2024</div>
+  <div class="pub-meta"><span class="venue">Cogent Economics &amp; Finance</span> · 12(1), 2431525 · 2024</div>
   <div class="pub-links"><a class="pub-link" href="https://doi.org/10.1080/23322039.2024.2431525">DOI</a></div>
 </div>
 <div class="pub-pitch">Builds portfolios that track unexpected CPI inflation in the BRICS markets. Statistical tracking beats the benchmarks, especially when inflation uncertainty is low.</div>
@@ -177,6 +177,14 @@
 ## Working papers & preprints
 
 <div class="pub-list">
+<div class="pub pub-nopitch">
+<div class="pub-main">
+  <div class="pub-title">NEXUS: On-Controller Transformer Inference and Speculative Edge Execution for Console-Wired Latency Parity in Cloud Gaming</div>
+  <div class="pub-authors"><span class="me">Vaibhav Lalwani</span></div>
+  <div class="pub-meta"><span class="venue">Zenodo (CERN European Organization for Nuclear Research)</span> · 2026</div>
+  <div class="pub-links"><a class="pub-link" href="https://doi.org/10.5281/zenodo.20059413">DOI</a></div>
+</div>
+</div>
 <div class="pub">
 <div class="pub-main">
   <div class="pub-title">YouTubers and Stock Returns</div>
@@ -185,6 +193,14 @@
   <div class="pub-links"><a class="pub-link" href="https://doi.org/10.2139/ssrn.6150026">DOI</a></div>
 </div>
 <div class="pub-pitch">Uses a large language model to pull stock calls from YouTubers across nine countries. The calls predict one-month returns, but not longer-horizon moves or lasting profits.</div>
+</div>
+<div class="pub pub-nopitch">
+<div class="pub-main">
+  <div class="pub-title">Factor Timing with Transaction Costs</div>
+  <div class="pub-authors"><span class="me">Vaibhav Lalwani</span> and Ashok Gunturu</div>
+  <div class="pub-meta"><span class="venue">SSRN Electronic Journal</span> · 2026</div>
+  <div class="pub-links"><a class="pub-link" href="https://doi.org/10.2139/ssrn.7634558">DOI</a></div>
+</div>
 </div>
 <div class="pub">
 <div class="pub-main">
